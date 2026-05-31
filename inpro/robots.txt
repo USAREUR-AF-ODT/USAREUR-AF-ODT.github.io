@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usareur-af-odt.github.io/inpro/sitemap-index.xml
